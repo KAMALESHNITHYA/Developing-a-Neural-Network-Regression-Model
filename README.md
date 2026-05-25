@@ -4,10 +4,10 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-Explain the problem statement
+A Neural Network Regression Model is a type of artificial neural network used to predict continuous numerical values such as prices, temperatures, or sales. It consists of an input layer, hidden layers, and an output layer, where neurons process data using weights, biases, and activation functions. Unlike classification models, regression models typically use a single output neuron with a linear activation function to produce numerical predictions. During training, the model learns patterns in the data by adjusting weights through backpropagation and optimization algorithms like Gradient Descent or Adam. The prediction error is measured using loss functions such as Mean Squared Error (MSE), and the goal is to minimize this error over multiple epochs. Hidden layers often use activation functions like ReLU to learn complex nonlinear relationships. Data preprocessing methods such as normalization help improve performance and training stability. Neural network regression models are widely used because they can model complex relationships more effectively than traditional regression techniques in applications like finance, healthcare, forecasting, and AI systems.
 
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="767" height="605" alt="image" src="https://github.com/user-attachments/assets/8462eea3-23d2-496d-b87b-c616ca3ca674" />
 
 ## DESIGN STEPS
 ### STEP 1: 
